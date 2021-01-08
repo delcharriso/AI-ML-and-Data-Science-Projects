@@ -1,4 +1,4 @@
-# Christopher Harrison's AI-ML-and-Data-Science-Certifications, Specializations, & Capstone Projects
+# Christopher Harrison's AI-ML-and-Data-Science Certifications, Specializations, & Capstone Projects
 
 
 Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher-harrison.21e02700/badges) confirming my skills related to data science, machine learning, deep learning, and artificial intelligence (AI)
