@@ -1,4 +1,4 @@
-# Christopher Harrison's AI-ML-and-Data-Science Certifications, Specializations, & Capstone Projects
+# Christopher Harrison's AI-ML-and-Data-Science Project Management Capstone Projects, Certifications, & Specializations
 
 [My LinkedIn Page](https://www.linkedin.com/in/drcharrison/)
 
