@@ -10,3 +10,5 @@ Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher
 [Data Science Foundations Specialization](https://www.youracclaim.com/badges/878d64b5-6540-4b62-b70d-ebd055bb083a)
 
 [Applied Data Science Specialization](https://www.youracclaim.com/badges/91decbe7-ea2c-4dec-b38b-751ff29fd466)
+
+[AWS L&D Artifact: Scaling Up Customer Readiness for Implementing SageMaker Ground Truth - Data Labeling in Machine Learning](https://app.smartsheet.com/b/publish?EQBCT=2d6f469904014d24b5a76bf054ca2652)
