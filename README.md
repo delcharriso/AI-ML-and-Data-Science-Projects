@@ -1,5 +1,6 @@
 # Christopher Harrison's AI-ML-and-Data-Science Certifications, Specializations, & Capstone Projects
 
+CERTIFICATIONS
 
 Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher-harrison.21e02700/badges) confirming my skills related to data science, machine learning, deep learning, and artificial intelligence (AI)
 
@@ -11,6 +12,14 @@ Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher
 
 [Applied Data Science Specialization](https://www.youracclaim.com/badges/91decbe7-ea2c-4dec-b38b-751ff29fd466)
 
+PROJECTS
+
 [AWS L&D Artifact: Scaling Up Customer Readiness for Implementing SageMaker Ground Truth - Data Labeling in Machine Learning](https://app.smartsheet.com/b/publish?EQBCT=2d6f469904014d24b5a76bf054ca2652)
 
 [My AI, Machine Learning, & Data Science Project Summaries](https://docs.google.com/spreadsheets/d/18t_sRH7PLSVjtkKg56_mb9DQn6OR9f9aRuVOdFJzlSo/edit#gid=0)
+
+[My AI Engineering Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/AI%20Engineering)
+
+[My Machine Learning Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Machine%20Learning)
+
+[My Data Science Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Data%20Science)
