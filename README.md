@@ -23,3 +23,25 @@ PROJECTS
 [My Machine Learning Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Machine%20Learning)
 
 [My Data Science Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Data%20Science)
+
+PROJECT MANAAGEMENT
+
+[Agile Requirements Foundations (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
+
+[Agile Foundations](https://www.dropbox.com/s/yuu6hfcs86v20nb/CertificateOfCompletion_Agile%20Foundations_Christopher%20Harrison.pdf?dl=0)
+
+[UX Foundations: Research](https://www.dropbox.com/s/u3o7p05atuhzxsn/Certificate%20Of%20Completion%20for%20Christopher%20Harrison_UX%20Foundations%20Research.pdf?dl=0)
+
+[UX Foundations Interaction Design](https://www.dropbox.com/s/35rcsak0f5wn4lk/Certificate%20Of%20Completion%20for%20Christopher%20Harrison_UX%20Foundations_%20Interaction%20Design.pdf?dl=0)
+
+[Scrum: The Basics](https://www.dropbox.com/s/spdm9biayl72cmb/CertificateOfCompletion_Scrum%20The%20Basics_Christopher%20Harrison.pdf?dl=0)
+
+[Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/verify/9WMC2KXC44K6)
+
+[Six Sigma Foundations](https://www.dropbox.com/s/w6s28ptht5443sb/CertificateOfCompletion_Six%20Sigma%20Foundations_CH.pdf?dl=0)
+
+[Becoming a Six Sigma Black Belt](https://www.dropbox.com/s/ox23s5lr9xj2nk6/CertificateOfCompletion_Becoming%20A%20Six%20Sigma%20Black%20Belt_Christopher%20Harrison.pdf?dl=0)
+
+[Google Cloud Platform for Enterprise Essentials](https://www.dropbox.com/s/wty2ute03pwt7xn/CertificateOfCompletion_Google%20Cloud%20Platform%20for%20Enterprise%20Essential%20Training.pdf?dl=0)
+
+[Google Cloud Platform for Machine Learning Essentials](https://www.dropbox.com/s/5t3eu1rhdsnhslt/CertificateOfCompletion_Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training_CH.pdf?dl=0)
