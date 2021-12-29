@@ -28,6 +28,18 @@ PROJECTS
 
 PROJECT MANAAGEMENT
 
+[Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/verify/9WMC2KXC44K6)
+
+[Smartsheet Essential Training (PMI Approved)](https://www.dropbox.com/s/qux8jkr4pndzm5w/CertificateOfCompletion_Smartsheet%20Essential%20Training_Christopher%20Harrison.pdf?dl=0)
+
+[Agile Requirements Foundations (PMI Approved)](https://www.dropbox.com/s/4qq3r57lotrayp2/CertificateOfCompletion_Project%20Management%20Foundations%20Risk%20for%20Christopher%20Harrison.pdf?dl=0)
+
+[Agile Project Management: Comparing Agile Tools (PMI Approved)](https://www.dropbox.com/s/kfdwutz1q3b0kp1/Certificate%20Of%20Completion%20for%20Christopher%20Harrison_Agile%20Project%20Management%20Comparing%20Agile%20Tools.pdf?dl=0)
+
+[Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
+
+[Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
+
 [Agile Requirements Foundations (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
 
 [Agile Foundations](https://www.dropbox.com/s/yuu6hfcs86v20nb/CertificateOfCompletion_Agile%20Foundations_Christopher%20Harrison.pdf?dl=0)
@@ -37,8 +49,6 @@ PROJECT MANAAGEMENT
 [UX Foundations Interaction Design](https://www.dropbox.com/s/35rcsak0f5wn4lk/Certificate%20Of%20Completion%20for%20Christopher%20Harrison_UX%20Foundations_%20Interaction%20Design.pdf?dl=0)
 
 [Scrum: The Basics](https://www.dropbox.com/s/spdm9biayl72cmb/CertificateOfCompletion_Scrum%20The%20Basics_Christopher%20Harrison.pdf?dl=0)
-
-[Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/verify/9WMC2KXC44K6)
 
 [Six Sigma Foundations](https://www.dropbox.com/s/w6s28ptht5443sb/CertificateOfCompletion_Six%20Sigma%20Foundations_CH.pdf?dl=0)
 
