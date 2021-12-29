@@ -38,6 +38,8 @@ PROJECT MANAAGEMENT
 
 [Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/4qq3r57lotrayp2/CertificateOfCompletion_Project%20Management%20Foundations%20Risk%20for%20Christopher%20Harrison.pdf?dl=0)
 
+[Project Management for IT Professionals](https://www.dropbox.com/s/77qvai2xg57ks0h/Certificate%20Of%20Completion_Program%20Management%20for%20IT%20Professionals_Christopher%20Harrison.pdf?dl=0)
+
 [Agile Foundations](https://www.dropbox.com/s/yuu6hfcs86v20nb/CertificateOfCompletion_Agile%20Foundations_Christopher%20Harrison.pdf?dl=0)
 
 [UX Foundations: Research](https://www.dropbox.com/s/u3o7p05atuhzxsn/Certificate%20Of%20Completion%20for%20Christopher%20Harrison_UX%20Foundations%20Research.pdf?dl=0)
