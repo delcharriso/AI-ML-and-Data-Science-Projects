@@ -52,6 +52,8 @@ PROJECT MANAAGEMENT
 
 [Becoming a Six Sigma Black Belt](https://www.dropbox.com/s/ox23s5lr9xj2nk6/CertificateOfCompletion_Becoming%20A%20Six%20Sigma%20Black%20Belt_Christopher%20Harrison.pdf?dl=0)
 
+[Six Sigma Green Belt](https://www.dropbox.com/s/vrtf703myrgb9rp/Six%20Sigma%20Green%20Belt_CertificateOfCompletion%20for%20Christopher%20Harrison.pdf?dl=0)
+
 [Google Cloud Platform for Enterprise Essentials](https://www.dropbox.com/s/wty2ute03pwt7xn/CertificateOfCompletion_Google%20Cloud%20Platform%20for%20Enterprise%20Essential%20Training.pdf?dl=0)
 
 [Google Cloud Platform for Machine Learning Essentials](https://www.dropbox.com/s/5t3eu1rhdsnhslt/CertificateOfCompletion_Google%20Cloud%20Platform%20for%20Machine%20Learning%20Essential%20Training_CH.pdf?dl=0)
