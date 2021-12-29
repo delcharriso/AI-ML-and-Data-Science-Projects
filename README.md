@@ -38,9 +38,7 @@ PROJECT MANAAGEMENT
 
 [Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
 
-[Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
-
-[Agile Requirements Foundations (PMI Approved)](https://www.dropbox.com/s/rll9ik4t5thbfz6/CertificateOfCompletion%20for%20Christopher%20Harrison_Agile%20Requirements%20Foundations.pdf?dl=0)
+[Project Management Foundations: Risk (PMI Approved)](https://www.dropbox.com/s/4qq3r57lotrayp2/CertificateOfCompletion_Project%20Management%20Foundations%20Risk%20for%20Christopher%20Harrison.pdf?dl=0)
 
 [Agile Foundations](https://www.dropbox.com/s/yuu6hfcs86v20nb/CertificateOfCompletion_Agile%20Foundations_Christopher%20Harrison.pdf?dl=0)
 
