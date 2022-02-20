@@ -26,7 +26,7 @@ PROJECTS
 
 [My Data Science Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Data%20Science)
 
-PROJECT MANAAGEMENT
+PROJECT MANAGEMENT
 
 [Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/verify/9WMC2KXC44K6)
 
