@@ -2,7 +2,7 @@
 
 I am a Business Systems & Solution Evangelist with a commitment to collaborating with organizational teams to build a critical mass of support to find strategic solutions to complex business and operational problems. 
 
-My work is grounded in the synergy and intersection of R&D, program and project management, developing L&D strategy and architecture, and systems analysis.  My work is grounded in technical skills such as AI, Machine Learning, Data Science, and Cloud Computing. I am a self-starter and able to use various tools for managing projects, risk management, systems thinking, stakeholder management, building customer and business value, consulting with customers on continuous improvement, customer success and retention, and general PeopleOps and DataOps strategy.
+My work is grounded in the synergy and intersection of R&D, program and project management, developing L&D strategy and architecture, and systems analysis.  I leverage my technical skills such as AI, Machine Learning, Data Science, and Cloud Computing to work cross-functionally to deliver value and solve business problems. I am a self-starter and able to use various tools for managing projects, risk management, systems thinking, stakeholder management, building customer and business value, consulting with customers on continuous improvement, customer success and retention, and general PeopleOps and DataOps strategy.
 
 [My LinkedIn Page](https://www.linkedin.com/in/drcharrison/)
 
