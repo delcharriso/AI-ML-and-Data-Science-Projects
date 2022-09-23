@@ -1,6 +1,6 @@
 # Christopher Harrison's AI-ML-and-Data-Science Project Management Capstone Projects, Certifications, & Specializations
 
-I have extensive experience in R&D, program and project management, developing L&D strategy and architecture, and systems analysis.  My work is grounded in technical skills such as AI, Machine Learning, Cloud Computing, and Data Science. I am a self-starter and able to use various tools for managing projects, risk management, systems thinking, stakeholder management, building customer and business value, consulting with customers on continuous improvement, customer success and retention, and general PeopleOps and DataOps strategy.
+I have extensive experience in R&D, program and project management, developing L&D strategy and architecture, and systems analysis.  My work is grounded in technical skills such as AI, Machine Learning, Data Science, and Cloud Computing. I am a self-starter and able to use various tools for managing projects, risk management, systems thinking, stakeholder management, building customer and business value, consulting with customers on continuous improvement, customer success and retention, and general PeopleOps and DataOps strategy.
 
 [My LinkedIn Page](https://www.linkedin.com/in/drcharrison/)
 
