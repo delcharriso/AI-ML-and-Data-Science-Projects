@@ -22,6 +22,8 @@ Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher
 
 [Natural Language Processing with Deep Learning in Python](https://www.dropbox.com/s/9g4eiu79qzmh6uc/Natural%20Language%20Processing%20with%20Deep%20Learning%20in%20Python_Certificate.jpeg?dl=0) 
 
+[Working with Large Language Models in Generative AI] https://www.dropbox.com/scl/fi/xl5x36mvfhr69bn2xq4e2/Large-Language-Models-with-Generative-AI_0823CH.pdf?rlkey=eft03x7u6erz3whscceuw4pgz&dl=0
+
 PROJECTS
 
 [My AI, Machine Learning, & Data Science Project Summaries](https://docs.google.com/spreadsheets/d/18t_sRH7PLSVjtkKg56_mb9DQn6OR9f9aRuVOdFJzlSo/edit#gid=0)
