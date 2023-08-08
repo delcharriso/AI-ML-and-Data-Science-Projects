@@ -12,7 +12,7 @@ CERTIFICATIONS
 
 Acclaim by Credly [Digital Badges](https://www.youracclaim.com/users/christopher-harrison.21e02700/badges) confirming my skills related to data science, machine learning, deep learning, and artificial intelligence (AI)
 
-[Linux: Introduction to Shell Scripting for DevOps](https://www.coursera.org/account/accomplishments/verify/JUMLYG6V9J6E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+[Linux Introduction to Shell Scripting for DevOps](https://www.coursera.org/account/accomplishments/verify/JUMLYG6V9J6E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
 
 [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/082ffae4-03be-4d96-84f9-38fbc91ff03d)
 
