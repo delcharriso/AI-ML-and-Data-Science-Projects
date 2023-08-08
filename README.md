@@ -36,6 +36,8 @@ PROJECTS
 
 [My Data Science Projects](https://github.com/delcharriso/AI-ML-and-Data-Science-Projects/tree/main/Data%20Science)
 
+[Scaling Up Customer Readiness for Implementing Sagemaker Ground Truth](https://app.smartsheet.com/b/publish?EQBCT=2d6f469904014d24b5a76bf054ca2652)
+
 PROJECT MANAGEMENT
 
 [Fundamentals of Project Planning and Management](https://www.coursera.org/account/accomplishments/verify/9WMC2KXC44K6)
